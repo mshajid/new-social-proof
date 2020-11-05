@@ -80,8 +80,9 @@ body {
 
 
 .bottom__ratings {
-    margin-top: 50px;
+    margin-top: 50px;   
 }
+
 
 .rating__card {
     display: flex;
